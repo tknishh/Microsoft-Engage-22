@@ -1,0 +1,201 @@
+track_id,name,album,artist,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+4LRPiXqCikLlN15c3yImP7,As It Was,As It Was,Harry Styles,2022-03-31,167303,100,0.52,0.342,0.731,0.00101,0.311,-5.338,0.0557,173.93,4
+3ihIZrJreMJPjQdNLrEXnP,In A Minute,In A Minute,Lil Baby,2022-04-07,200470,78,0.643,0.0336,0.605,0.0,0.112,-5.968,0.297,84.216,4
+3WMj8moIAXJhHsyLaqIIHI,Something in the Orange,Something in the Orange,Zach Bryan,2022-04-22,228013,78,0.369,0.555,0.192,8.35e-06,0.0954,-12.151,0.04,175.212,3
+7dSZ6zGTQx66c2GF91xCrb,PROVENZA,PROVENZA,KAROL G,2022-04-22,210200,91,0.87,0.656,0.516,0.00823,0.11,-8.006,0.0541,111.005,4
+1qEmFfgcLObUfQm0j1W2CK,Late Night Talking,Harry's House,Harry Styles,2022-05-20,177954,84,0.714,0.298,0.728,0.0,0.106,-4.595,0.0468,114.996,4
+63oFS9JTsvadCXUqwqA7p0,Shizukana,Shizukana,Isshi Matsuriza,2022-04-08,131786,62,0.47,0.99,0.0593,0.934,0.104,-28.563,0.0355,113.418,4
+72kAhVS63uHIQV7drmjjHZ,Say Yea,Say Yea,Jacquees,2022-05-20,205621,49,0.649,0.224,0.661,0.0,0.108,-5.456,0.138,140.325,3
+4hq0S6wznq7SHDyMOFXL9i,Tumbling Dice,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,226333,64,0.615,0.5,0.91,0.511,0.281,-4.248,0.0347,111.013,4
+1RF02Cf80mTaeNXG2P2boR,21 Reasons (feat. Ella Henderson),21 Reasons (feat. Ella Henderson),Nathan Dawe,2022-04-29,155253,73,0.621,0.0165,0.785,5.92e-06,0.0512,-4.499,0.11,123.96,4
+63WuQOXohQIxOxIFA2K7bR,SUPERMODEL,SUPERMODEL,Måneskin,2022-05-13,148064,79,0.636,0.00164,0.876,0.0,0.117,-3.413,0.0555,120.983,4
+1qEmFfgcLObUfQm0j1W2CK,Late Night Talking,Harry's House,Harry Styles,2022-05-20,177954,84,0.714,0.298,0.728,0.0,0.106,-4.595,0.0468,114.996,4
+1WCEAGGRD066z2Q89ObXTq,Crazy What Love Can Do,Crazy What Love Can Do,David Guetta,2022-04-08,169756,82,0.601,0.0282,0.713,0.0,0.158,-3.758,0.0449,122.872,4
+3aw9iWUQ3VrPQltgwvN9Xu,Family Affair,No More Drama,Mary J. Blige,2001-01-01,265866,75,0.911,0.132,0.551,4.12e-05,0.0863,-3.75,0.0449,92.887,4
+3ZpQiJ78LKINrW9SQTgbXd,All I Wanna Do,Tuesday Night Music Club,Sheryl Crow,1993-08-03,272106,68,0.82,0.111,0.528,0.0186,0.257,-11.179,0.0321,120.091,4
+39lSeqnyjZJejRuaREfyLL,Hungry Like the Wolf - 2009 Remaster,Rio (Collector's Edition),Duran Duran,1982-05-10,220626,70,0.691,0.0433,0.812,1.16e-06,0.299,-7.772,0.0558,127.568,4
+3gdewACMIVMEWVbyb8O9sY,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Honky Chateau,Elton John,1972-05-19,281613,79,0.601,0.432,0.532,6.25e-06,0.0925,-9.119,0.0286,136.571,4
+6jWkZvd1URGktyTTwcpPpB,My Girl,The Temptations Sing Smokey,The Temptations,1965-01-01,165000,0,0.579,0.625,0.419,0.0,0.0981,-10.72,0.0346,104.564,4
+5ueyLj6e6oVaTY0KQ6yLaA,All Shook Up,Elvis' Golden Records,Elvis Presley,1958-03-21,117080,58,0.624,0.881,0.468,6.35e-06,0.144,-12.162,0.132,74.139,4
+6I3mqTwhRpn34SLVafSH7G,Ghost,Justice,Justin Bieber,2021-03-19,153190,88,0.601,0.185,0.741,2.91e-05,0.415,-5.569,0.0478,153.96,4
+7DwcBgdzqhFJltEaV1XF81,Cooped Up (with Roddy Ricch),Cooped Up,Post Malone,2022-05-12,185857,83,0.669,0.038,0.773,0.0,0.113,-5.619,0.153,93.923,4
+312YwRTzTE526nmuCaONji,SOON (feat. Arabian),SOON (feat. Arabian),42 Dugg,2022-05-20,159104,55,0.665,0.112,0.633,0.0,0.0987,-9.324,0.305,168.985,4
+3yfqSUWxFvZELEM4PmlwIR,The Real Slim Shady,The Marshall Mathers LP,Eminem,2000-05-23,284200,85,0.949,0.0302,0.661,0.0,0.0454,-4.244,0.0572,104.504,4
+6ws54n2IzyrIxxyzlG2bVJ,Right On,Right On,Lil Baby,2022-04-08,213975,80,0.535,0.0245,0.618,0.0,0.103,-5.668,0.382,165.991,4
+59nOXPmaKlBfGMDeOVGrIK,WAIT FOR U (feat. Drake & Tems),I NEVER LIKED YOU,Future,2022-04-29,189893,87,0.463,0.314,0.642,0.0,0.0686,-4.474,0.34,83.389,4
+4eZZofkV1OQ9GDqAgHqNpA,Buga (Lo Lo Lo),Buga (Lo Lo Lo),Kizz Daniel,2022-05-03,183103,67,0.92,0.296,0.716,0.00222,0.104,-7.104,0.105,115.991,4
+4Red8fs87G5istv5L8S9kU,Vinyl Days (feat. DJ Premier),Vinyl Days,Logic,2022-05-20,282581,57,0.694,0.38,0.873,0.0,0.122,-2.96,0.333,89.958,4
+6zrZ7mVcznNd2Q6qB0iBrq,Can't Anymore,ALPHA,Shenseea,2022-03-11,155307,62,0.771,0.209,0.724,3.51e-06,0.281,-5.372,0.0422,102.991,4
+671qYsHx1DL1pNn3qxYg60,AIGHT (feat. Shelley FKA DRAM),AIGHT (feat. Shelley FKA DRAM),WESTSIDE BOOGIE,2022-04-22,164136,59,0.9,0.346,0.503,0.00178,0.127,-9.53,0.153,95.035,4
+2IePEfMAtqWS6rLXXFZIgI,"His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)","His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",Internet Money,2021-05-13,224042,73,0.792,0.116,0.707,0.0,0.12,-5.218,0.0623,134.997,4
+0QNNd0qMCDbraS1nQPg3aA,HOTEL LOBBY (Unc & Phew),HOTEL LOBBY (Unc & Phew),Quavo,2022-05-20,142657,64,0.821,0.142,0.636,0.0,0.233,-4.479,0.169,127.961,4
+0PGRXJFSwpn5OAGFpEwiqK,Remember (with Nigo),I Know NIGO!,Nigo,2022-03-25,135111,63,0.685,0.201,0.744,1.74e-05,0.161,-3.687,0.187,134.95,4
+43SIjaufu6brjwKphXhZCJ,DENY,DENY,Boslen,2021-03-05,191835,0,0.739,0.383,0.697,0.0,0.178,-5.309,0.0564,74.999,4
+2BxboWjnfktO1E9HGfPXq1,Wheelie (feat. 21 Savage),Wheelie (feat. 21 Savage),Latto,2022-03-11,170270,69,0.911,0.0313,0.667,0.0,0.0854,-6.606,0.277,147.976,4
+3baPniPXS0iEII8rDUJdYP,Monalisa,Monalisa,Sarz,2022-05-19,212975,59,0.828,0.106,0.726,0.00101,0.103,-6.389,0.0419,113.017,4
+2BEuUkh9r8NCYiVvSKZIol,The Revolution Will Not Be Televised,The Revolution Begins: The Flying Dutchman Masters,Gil Scott-Heron,2012-11-26,187360,0,0.561,0.552,0.765,0.0,0.111,-9.764,0.207,177.609,4
+64ydkbrt0xhdJXRaam06Mc,Mile High,Assume Form,James Blake,2019-01-18,193600,0,0.754,0.403,0.37,6.22e-05,0.107,-9.854,0.12,114.941,4
+63WuQOXohQIxOxIFA2K7bR,SUPERMODEL,SUPERMODEL,Måneskin,2022-05-13,148064,79,0.636,0.00164,0.876,0.0,0.117,-3.413,0.0555,120.983,4
+0HqZX76SFLDz2aW8aiqi7G,Bones,Bones,Imagine Dragons,2022-03-11,165264,86,0.773,0.0206,0.742,0.0,0.0754,-3.678,0.046,114.071,4
+70LcF31zb1H0PyJoS1Sx1r,Creep,Pablo Honey,Radiohead,1993-02-22,238640,81,0.515,0.0097,0.43,0.000133,0.129,-9.935,0.0372,91.844,4
+6QgjcU0zLnzq5OrUoSZ3OK,Feel It Still,Woodstock,Portugal. The Man,2017-06-16,163253,74,0.801,0.0417,0.795,0.000113,0.0717,-5.115,0.0504,79.028,4
+305WCRhhS10XUcH6AEwZk6,Are You Gonna Be My Girl,Get Born,Jet,2003-09-15,213800,73,0.613,0.00148,0.953,0.000582,0.152,-3.435,0.0855,105.046,4
+1w553LQgqi5Wr1EbnPe2bB,Scary Love,The Neighbourhood,The Neighbourhood,2018-03-09,224026,0,0.597,0.000104,0.625,0.0508,0.149,-5.94,0.0308,112.026,4
+0ePX6rVjeql7Bt1KurTbAG,"What, Me Worry?","What, Me Worry?",Portugal. The Man,2022-02-09,177397,63,0.722,0.0682,0.889,4.77e-06,0.124,-2.564,0.0416,139.965,4
+2AAyBZmMVZSZfgzXRYJOWQ,emo girl (feat. WILLOW),emo girl (feat. WILLOW),Machine Gun Kelly,2022-02-04,159096,61,0.41,0.000406,0.881,4.26e-05,0.922,-3.502,0.087,165.006,4
+5l4DU5tgUtLqFSxir6y0dp,Faded Out (feat. Within Temptation),Faded Out (feat. Within Temptation),Asking Alexandria,2022-05-20,185542,53,0.478,0.000151,0.937,0.0,0.198,-4.775,0.0938,74.966,4
+04rMpRstoJt3uvqyNGKczX,When The Stars Go Blue,Gold,Ryan Adams,2001-01-01,211666,56,0.59,0.466,0.208,2.81e-05,0.115,-13.25,0.0316,90.084,4
+0dgAZ1j5irH1FlA5WrpHW4,Wild Child,Wild Child,The Black Keys,2022-03-10,164866,67,0.68,0.017,0.639,5.09e-06,0.0398,-6.233,0.0278,106.991,4
+3dmqIB2Qxe2XZobw9gXxJ6,Mary Jane's Last Dance,Greatest Hits,Tom Petty and the Heartbreakers,2008-05-20,273600,71,0.464,0.0272,0.655,1.34e-06,0.328,-9.058,0.0608,169.515,4
+4CeeEOM32jQcH3eN9Q2dGj,Smells Like Teen Spirit,Nevermind (Remastered),Nirvana,1991-09-26,301920,80,0.502,2.55e-05,0.912,0.000173,0.106,-4.556,0.0564,116.761,4
+4KcH1ZRV2W1q7Flq0QqC76,Blitzkrieg Bop - 2016 Remaster,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,1976-04-23,134466,69,0.385,0.000269,0.783,0.47,0.108,-2.533,0.233,176.701,4
+6L89mwZXSOwYl76YXfX13s,Basket Case,Dookie,Green Day,1994-02-01,181533,78,0.442,0.00293,0.943,8.71e-06,0.091,-3.205,0.0602,85.064,4
+7c1Dar0pIAW7w5TzaGjt9t,Jane Says,Nothing's Shocking,Jane's Addiction,1988-08-23,287000,64,0.402,0.0385,0.597,2.09e-06,0.109,-9.258,0.0327,81.806,4
+7ygpwy2qP3NbrxVkHvUhXY,Wonderwall - Remastered,(What's The Story) Morning Glory? (Deluxe Remastered Edition),Oasis,1995,258773,75,0.375,0.000509,0.893,0.0,0.187,-4.097,0.0406,174.323,4
+07q0QVgO56EorrSGHC48y3,I Was Made For Lovin' You,Dynasty,KISS,1979-03-23,271240,79,0.768,0.214,0.852,7.36e-05,0.0723,-6.215,0.038,128.373,4
+5aFGo8wHEntVxFI8IF7Wuj,Typhoons,Typhoons,Royal Blood,2021-04-30,236933,57,0.601,0.000347,0.723,0.0011,0.346,-4.364,0.0384,114.991,4
+4GssB27iJeqmfGxS94Tfij,Popular Monster,Popular Monster,Falling In Reverse,2019-11-20,220537,73,0.461,0.00821,0.897,0.0,0.0965,-3.982,0.092,165.107,4
+0tZ3mElWcr74OOhKEiNz1x,Bulls On Parade,Evil Empire,Rage Against The Machine,1996-04-16,229466,72,0.412,0.0124,0.919,0.0601,0.424,-7.291,0.184,166.367,4
+1sx0XsWUusUoPstbvokZjP,A-O-K,TV,Tai Verdes,2021-05-20,173640,76,0.731,0.125,0.626,0.0,0.183,-6.919,0.0805,82.488,4
+5Az8KU81g2aLBbJN67F2CI,Mind Over Matter,Mind Over Matter,Young the Giant,2014-01-17,244693,70,0.466,0.000501,0.763,0.0,0.0973,-4.448,0.0318,154.914,4
+0QFGZqqB1KDpOtyL3vXMXo,Believe,Believe,Caamp,2022-03-11,195106,59,0.516,0.0324,0.635,0.00187,0.0674,-8.024,0.0347,150.067,4
+19dNZyDyw00aKgr6S0Os6e,Lifetime,EXPLOSIONS,Three Days Grace,2022-05-06,176226,57,0.413,0.0012,0.684,0.0,0.16,-2.878,0.0348,129.975,4
+0BWv3O0ouhfmc2aAPezRGu,.intoodeep.,.CoDA.,Dead Poet Society,2020-11-12,219906,45,0.592,0.00039,0.674,1.26e-05,0.354,-6.26,0.0417,124.928,4
+3IV4swNduIRunHREK80owz,Rollin' (Air Raid Vehicle),Chocolate Starfish And The Hot Dog Flavored Water,Limp Bizkit,2000-10-17,213760,73,0.603,0.00591,0.933,0.0,0.206,-3.358,0.171,96.306,4
+7KD8qQSdaWUVjECHhqRtaQ,Dying To Know You,Time Isn't Real,Grabbitz,2022-04-01,213560,34,0.654,0.395,0.683,0.0,0.0902,-6.058,0.0333,143.099,4
+4j08A1efdJcVINBHSmQKPS,Under Pressure,Under Pressure,My Chemical Romance,2005-04-12,211733,50,0.528,0.00134,0.897,0.0,0.19,-5.943,0.0589,125.009,4
+7JDoiqNTFEkzHGTUTRz2pG,For the Kill,Odes to the Void,Life On Venus,2019-11-22,208450,35,0.347,0.00111,0.695,0.546,0.0925,-6.352,0.0398,147.904,4
+1HhNoOuqm1a5MXYEgAFl8o,Enemy (with JID) - from the series Arcane League of Legends,Mercury - Act 1,Imagine Dragons,2021-09-03,173381,83,0.728,0.237,0.783,0.0,0.434,-4.424,0.266,77.011,4
+3quyci0xdEjIRQBusVGDL2,Pillar On The Bridge Of You,Pillar On The Bridge Of You,BODEGA,2022-03-09,197853,35,0.595,0.00166,0.871,0.0102,0.119,-6.319,0.0378,128.984,4
+17IkqxJGfjKkii7GBJFnDW,Tell Me I'm A Wreck,Picture Perfect,Every Avenue,2009-11-02,219960,0,0.576,0.00186,0.75,0.0,0.195,-2.265,0.0319,127.889,4
+0QT6JDL8cgndqsY0rXQwdY,United Kids,Solid Bond: The Complete Discography,CIV,2009-05-19,139186,0,0.367,0.000154,0.945,0.317,0.164,-5.273,0.127,89.914,4
+5vxDVqt3HpvYUshrY21Y2O,Big Dreams,Big Dreams,The Score,2021-12-10,185585,51,0.573,0.0138,0.608,1.3e-06,0.0828,-7.431,0.0381,144.896,4
+0fgZNZZPgRy4PoU4moGtvi,Seeing Someone Else,Seeing Someone Else,Ingrid Andress,2022-05-13,206737,55,0.443,0.0738,0.497,9.81e-05,0.128,-4.765,0.0315,147.859,4
+5U4iPIXYJ5h6H7zJhx6VVF,Dates In Pickup Trucks,Dates In Pickup Trucks,Kassi Ashton,2022-02-04,165520,52,0.453,0.312,0.842,0.0,0.186,-3.156,0.394,170.166,4
+693NFnfJZt16AFDaZqlflo,Done,Real Friends,Chris Janson,2019-10-18,220120,61,0.565,0.34,0.835,0.0,0.0726,-3.379,0.0335,105.007,4
+35FM98S1TXVK85kLzGnRlH,Sunrise Tells The Story,Sunrise Tells The Story,Midland,2021-07-02,208066,0,0.548,0.071,0.547,7.64e-05,0.331,-7.647,0.026,109.898,3
+5xQTEPjGsLuvwnnvyK3fAA,Love You To Death,Love You To Death,Chord Overstreet,2019-11-04,199459,48,0.574,0.421,0.344,0.0,0.0804,-8.995,0.0345,147.924,3
+6Tm4Io4ct4w14nB1EUzsY3,Whiskey On You,Whiskey On You,Nate Smith,2022-05-06,183789,75,0.479,7.02e-05,0.768,0.00549,0.121,-5.204,0.0312,110.024,4
+7vF3xkCMvZjAe2nTWY0uQZ,Made For You,Greetings From...Jake,Jake Owen,2019-03-29,238400,69,0.581,0.77,0.441,2.75e-05,0.111,-6.829,0.0268,82.125,4
+5PAvFGse5jjDH9ke8Mae7D,Just the Way,Just the Way,Parmalee,2019-12-13,193880,46,0.544,0.107,0.829,0.0,0.317,-2.84,0.0404,90.048,4
+69AIpwGNLxr4qS1X5ynx60,Buy Dirt,Buy Dirt,Jordan Davis,2021-05-21,167480,77,0.586,0.639,0.559,0.0,0.0872,-6.725,0.05,177.945,4
+4ZeHjRfWTpESYD0XarSXit,You Can Rest,You Can Rest,Hillary Scott,2022-03-29,288658,38,0.574,0.921,0.341,0.0,0.216,-6.269,0.0296,136.113,4
+1ipcb9qXpSHWhSUvdxJhsx,"Forever and Ever, Amen",Always & Forever,Randy Travis,1987-05-04,212640,66,0.677,0.143,0.724,0.000101,0.158,-8.992,0.0245,90.392,4
+0KTpPWkgZ0X5TX1bHl2Ipj,I Don't Go To Funerals,A Beautiful Time,Willie Nelson,2022-04-29,147186,48,0.649,0.171,0.686,0.000264,0.273,-7.914,0.038,87.023,4
+5EWPGh7jbTNO2wakv8LjUI,Free Bird,Pronounced' Leh-'Nerd 'Skin-'Nerd,Lynyrd Skynyrd,1973-01-01,547106,73,0.249,0.0738,0.834,9.48e-05,0.0924,-8.21,0.0577,118.223,4
+6gshpXdlUNPFQyWsgLXxsh,Goin’ Back Down (feat. Colt Ford),Goin’ Back Down (feat. Colt Ford),Redneck Social Club,2015-01-20,225740,0,0.518,0.0542,0.877,1.31e-05,0.307,-4.924,0.106,170.211,4
+2FD2wb4aU4IFn2R1Y15062,Honky Tonkin' - Single Version,The Ultimate Collection,Hank Williams,2002-01-01,164826,0,0.534,0.83,0.409,0.0,0.115,-10.015,0.0328,164.461,4
+0gjUYiqimLvi6QxJ0Od2Dg,John Wayne,John Wayne,Whiskey Myers,2022-02-18,295776,57,0.638,0.000877,0.683,0.000645,0.178,-5.889,0.0275,109.051,4
+4LjOVLoj6OrrNJktFTYPGK,Letter To Ur N(ex)t,Letter To Ur Ex,Mahalia,2022-05-20,134279,52,0.49,0.879,0.296,0.000141,0.106,-10.989,0.0985,105.829,4
+401160izncPtca3CmX3dvM,Purple Hearts,Mr. Morale & The Big Steppers,Kendrick Lamar,2022-05-13,329295,82,0.567,0.167,0.824,2.65e-06,0.149,-6.973,0.296,138.202,4
+2LBqCSwhJGcFQeTHMVGwy3,Die For You,Starboy,The Weeknd,2016-11-24,260253,76,0.586,0.111,0.525,0.0,0.134,-7.163,0.0615,133.629,4
+2CVChktEKBsM6v4IfdFU5k,double take,double take,dhruv,2019-05-24,171743,15,0.654,0.837,0.434,0.0,0.216,-11.163,0.0665,109.069,4
+60gTdTwaNtGAzIxKfeGVfJ,Love's Train,Love's Train,Bruno Mars,2022-02-14,307014,70,0.711,0.0396,0.605,2.29e-05,0.104,-9.801,0.031,140.981,4
+1RMJOxR6GRPsBHL8qeC2ux,Best Part (feat. H.E.R.),Freudian,Daniel Caesar,2017-08-25,209831,74,0.524,0.808,0.364,0.0,0.1,-10.209,0.0367,75.24,4
+6eCeCP4MhQGPNAKPi6YD9p,Love's In Need Of Love Today,Love's In Need Of Love Today,Kevin Ross,2020-04-01,252697,47,0.57,0.507,0.525,0.0,0.143,-9.156,0.0818,94.881,4
+68j5DYmCikBzcp60Sv6xWO,All I Need (with Mahalia & Ty Dolla $ign),All I Need (with Mahalia & Ty Dolla $ign),Jacob Collier,2020-05-14,243786,51,0.485,0.425,0.492,0.0,0.105,-6.462,0.331,78.001,4
+5nS5mDWAyce9gjD8crHcZX,I Gotta Be,A Jagged Era,Jagged Edge,1997-10-21,215266,55,0.719,0.651,0.362,0.0,0.114,-11.547,0.0276,109.915,4
+4C5GsegFD0j5ujSr1y93Oj,Knocks Me Off My Feet,Songs In The Key Of Life,Stevie Wonder,1976-09-28,216426,55,0.496,0.295,0.488,6.85e-06,0.132,-14.195,0.0305,181.042,4
+5RjS5iW0FWn1U4ZaWjhLlP,I'm Getting Ready,Heart. Passion. Pursuit.,Tasha Cobbs Leonard,2017-08-25,506200,51,0.436,0.00914,0.636,0.0,0.137,-5.065,0.0394,93.594,4
+5uuJruktM9fMdN9Va0DUMl,Play That Funky Music,Wild Cherry,Wild Cherry,1976,300000,69,0.814,0.0435,0.672,0.0,0.061,-12.068,0.0619,109.394,4
+0AVpYUg9VAvkOqlqfCyn30,Hot Like Fire (Timbaland's Groove Mix) (feat. Missy Elliott & Timbaland) - Bonus,One In A Million,Aaliyah,1996-08-27,275250,57,0.75,0.177,0.641,0.0171,0.127,-5.165,0.132,82.541,4
+4RRs6lOD5L1KbQ56rp61RM,Rock Steady - Radio Edit,Just Gets Better With Time,The Whispers,1987-01-01,243706,46,0.888,0.00808,0.711,2.48e-06,0.0432,-11.477,0.0577,116.342,4
+6Y3WvyUG9iE5bQYg38SPtQ,Be Without You - Kendu Mix,The Breakthrough,Mary J. Blige,2005-01-01,246333,68,0.726,0.0717,0.7,0.0,0.262,-5.881,0.0998,146.559,4
+77z6mJeFcHlRWVfbOdBCtc,Good Morning Gorgeous,Good Morning Gorgeous,Mary J. Blige,2021-12-03,174728,57,0.519,0.213,0.582,0.0,0.0681,-6.778,0.112,131.524,3
+7yMhyRmQGv6mSD6SkfhPeF,The Let Out (feat. Quavo),The Let Out (feat. Quavo),Jidenna,2017-02-03,235662,36,0.735,0.154,0.801,0.0,0.0941,-4.738,0.195,156.998,4
+5Q4MxA344M8VyFieIC4YTk,Thr33 6ix 5ive,Thr33 6ix 5ive,HoneyLuv,2022-04-22,151283,54,0.788,0.00629,0.96,0.00673,0.0878,-4.684,0.0499,123.99,4
+4Rrj1QxDqsj28gv9SiHQRA,Out of Time - KAYTRANADA Remix,Out Of Time (Remix Bundle),The Weeknd,2022-04-22,275555,68,0.742,0.0962,0.599,0.000578,0.0981,-8.796,0.297,108.283,4
+10oKSzRcwbZsog2uq2gb4b,Escape (feat. Hayla),Escape (feat. Hayla),Kx5,2022-03-11,240445,74,0.66,0.179,0.799,0.000364,0.701,-6.934,0.0719,126.08,4
+0bsdfTgzxOPN4RcZcGJJ3t,It's A Killa,It's A Killa,FISHER,2022-03-11,200028,48,0.78,0.00353,0.914,0.00659,0.151,-5.282,0.0433,125.986,4
+0y6CoVW1ZSBqRmPbyfhFQs,Looking at Your Pager,Looking at Your Pager,KH,2022-05-20,174417,50,0.708,0.236,0.872,0.0661,0.108,-6.719,0.0336,140.063,4
+2L2rzhnx1Xr6LiGuaYMepY,Reason For Fighting (feat. ERV ELLO),Reason For Fighting (feat. ERV ELLO),Seven Lions,2022-04-15,238285,51,0.467,0.00705,0.931,0.000365,0.348,-3.318,0.14,140.008,4
+297ZF3Zp0VFLY21qZ4bQ6W,Diamonds,Diamonds,Catching Flies,2022-03-22,124451,51,0.384,0.959,0.0752,0.904,0.11,-16.034,0.0418,70.852,4
+5QBoohH8QfwtCrH2ZSWpJ8,Over This,Over This,Tim Schaufert,2020-09-11,233333,49,0.498,0.825,0.375,0.349,0.115,-10.69,0.0487,89.987,4
+4XeIiGpUBshIfs9yrBDVZC,The Last Goodbye (feat. Bettye LaVette),The Last Goodbye (feat. Bettye LaVette),ODESZA,2022-02-08,358983,73,0.667,0.00752,0.92,0.00232,0.126,-2.71,0.0773,114.977,4
+0EMyqiMNDRptenOpbe2mcK,Release Me,Release Me,Agnes,2009-01-01,254120,0,0.622,0.00795,0.928,0.000252,0.106,-2.939,0.034,127.992,4
+5AHam2qo8G5SqYtmqVIAq6,Where Did You Go? - Acoustic,Where Did You Go? (Acoustic),Jax Jones,2022-04-22,202680,46,0.586,0.82,0.4,0.0,0.189,-5.964,0.0301,119.822,4
+4dzBqc5t2GWJKpGqUoTbrU,2gether,2gether,Mura Masa,2021-11-26,191074,52,0.768,0.455,0.374,0.000226,0.245,-5.552,0.0586,91.903,4
+06kxa3al7bUqRRo5nAFduZ,Nightlight,Nightlight,ILLENIUM,2020-08-28,222400,59,0.494,0.0819,0.651,0.0,0.104,-4.127,0.0384,149.979,4
+2W9zh4QNFmuOyKHbtYYNm0,Another Time,Another Time,TWO LANES,2021-02-25,255789,56,0.67,0.401,0.434,0.862,0.109,-12.923,0.046,113.997,4
+40mxAPW0mpgZ4EGPWiFxt9,iPad,iPad,The Chainsmokers,2022-03-11,202406,72,0.665,0.00502,0.628,2.02e-05,0.0947,-6.297,0.026,121.979,4
+1KUYxwsFpCgpwygaWQu4JL,Death of Me,Death of Me,Whales,2022-05-12,168428,36,0.516,0.0117,0.775,6.23e-06,0.0947,-4.701,0.032,139.947,4
+7f8sMzOd2e5eHfiTqThjtQ,Intents HighScore (Official Intents Festival 2022 Anthem),Intents HighScore (Official Intents Festival 2022 Anthem),Da Tweekaz,2022-05-13,261182,55,0.546,0.0119,0.961,9.11e-05,0.37,-3.574,0.0884,155.047,4
+6y6xhAgZjvxy5kR5rigpY3,Chasing Stars (feat. James Bay),Chasing Stars (feat. James Bay),Alesso,2021-08-20,170457,72,0.594,0.0169,0.64,0.0,0.135,-6.865,0.033,92.871,4
+5NQKpa6uCqZcaFkAbUK4XB,Oceans & Galaxies,Oceans & Galaxies,Jauz,2021-04-16,200547,60,0.532,0.12,0.625,3.35e-05,0.103,-7.472,0.0506,145.857,4
+06eFWpksA3M9qg8GeOGGBX,LET’S DO IT AGAIN - Radio Edit,LET’S DO IT AGAIN,Jamie xx,2022-04-12,225494,64,0.66,0.242,0.837,0.876,0.0704,-7.415,0.0294,123.991,4
+5h2ED2Bw6lKWZDOuQTTSDG,In Chicago,In Chicago,John Summit,2022-05-13,186686,58,0.73,0.00172,0.849,0.82,0.159,-6.899,0.0378,125.99,4
+22Gd0aeeTTa5E81i5bJ3FB,Gold,Gold,AVIRA,2021-05-07,220644,44,0.561,0.0907,0.856,0.0844,0.17,-5.836,0.0403,124.093,4
+0enM3iefQE7ad53N2wLnl5,Patika,Patika,Hezarfen,2022-03-11,333818,37,0.774,0.467,0.269,0.786,0.109,-16.851,0.0607,109.985,4
+1HhfEj6K1gObPfi1nQfOyN,Arrival,Arrival,Capozzi,2022-05-06,207096,42,0.775,0.016,0.704,0.702,0.162,-8.794,0.0491,123.967,4
+3NeSlNBRvB4BMrxhA88Zke,Dancing Cliché,Dancing Cliché,LF SYSTEM,2021-10-22,152669,53,0.806,0.000174,0.92,0.0659,0.07,-5.271,0.0882,128.04,4
+0SSIu4CcGITHdatDmjlA6H,Nobody To Love (with Loren Gray),Nobody To Love (with Loren Gray),TELYKast,2021-03-12,146372,62,0.734,0.0937,0.823,0.0,0.0853,-3.684,0.0853,122.143,4
+1KLHdiX2pYgctTvzK6QApv,Afterlife,Afterlife,NCT,2020-07-17,255839,33,0.445,0.000693,0.923,0.00472,0.341,-3.922,0.0562,174.032,4
+2WiW6RcpDaCivdk7cofdBA,Colour Me,Horizons [Part 1],Giuseppe Ottaviani,2022-05-20,237133,37,0.488,0.012,0.947,0.0159,0.0935,-7.592,0.0408,125.008,4
+3aPaa10F8G5yzzh9Eb6ayQ,STAY STRONG,STAY STRONG,bear bear & friends,2020-12-24,183823,20,0.742,0.314,0.698,0.000398,0.113,-2.92,0.0433,149.998,4
+40SBS57su9xLiE1WqkXOVr,Afraid To Feel,Afraid To Feel,LF SYSTEM,2022-05-02,177524,52,0.578,0.0166,0.912,0.00362,0.273,-3.929,0.114,127.87,4
+1Gx6oQEiS4h5e7ltUDN1jc,Nights With You,Nights With You,Nicky Romero,2020-10-09,149200,55,0.58,0.383,0.745,0.0,0.25,-4.915,0.048,150.103,4
+3DWH2ElS137GfWMzGcXVp2,Walk Me Home - Blanke Remix,Walk Me Home (Blanke Remix),Said The Sky,2022-04-22,303882,55,0.474,0.0918,0.803,0.0,0.244,-3.183,0.0808,170.004,3
+01c5BKqrUcV9PX6hIbcAr5,This Feeling,EDC Las Vegas 2022,Insomniac Music Group,2022-05-13,196440,36,0.696,0.0156,0.685,0.406,0.205,-6.64,0.0376,124.985,4
+2ymMatDezwtUux8iazJviZ,Bay Vag,Chante ap ret chante,Baky,2022-05-08,253208,35,0.657,0.44,0.713,0.0,0.208,-7.123,0.0454,170.088,4
+1bgKMxPQU7JIZEhNsM1vFs,Words (feat. Zara Larsson),Words (feat. Zara Larsson),Alesso,2022-04-22,142677,78,0.739,0.0245,0.586,0.000252,0.308,-5.079,0.0472,124.026,4
+5C2mUkFTs51bizl4LAaqRy,Run Into Trouble,Run Into Trouble,Alok,2022-04-01,182564,69,0.621,0.265,0.885,0.0,0.0719,-4.593,0.0415,117.021,4
+5erj647SYiDcIR8Zwi6tc9,It Gets Better,It Gets Better,Swedish House Mafia,2021-07-15,184611,47,0.642,0.00176,0.709,0.505,0.291,-7.064,0.0421,118.928,4
+7M4L1kiKMhtQZmpyO78DKd,Love To The World,Love To The World,L.T.D.,1976-01-01,303426,24,0.651,0.512,0.669,0.028,0.166,-12.528,0.0539,114.129,4
+10oKSzRcwbZsog2uq2gb4b,Escape (feat. Hayla),Escape (feat. Hayla),Kx5,2022-03-11,240445,74,0.66,0.179,0.799,0.000364,0.701,-6.934,0.0719,126.08,4
+6wnzt59p7i8cAyuWl1avwr,If We’ll Ever Be Remembered,If We’ll Ever Be Remembered,Martin Garrix,2022-04-29,210505,62,0.502,0.0353,0.554,0.0,0.62,-5.788,0.0317,125.786,4
+0ha2skoePlU0BDDySj8qf2,We're Still Young,We're Still Young,Nicky Romero,2021-09-10,195000,63,0.521,0.029,0.831,0.0,0.349,-3.184,0.0558,127.962,4
+6mhQ7eOHaV0ur2ooKTavW1,"Tchaikovsky: 1812 Overture in E-Flat Major, Op. 49",Tchaikovsky : Symphony No.5 & 1812 Overture,Pyotr Ilyich Tchaikovsky,1996-01-01,905666,48,0.173,0.886,0.182,0.894,0.224,-18.848,0.0437,70.831,4
+6cBVmDCjTVBtz171ouwYHg,"Also sprach Zarathustra, Op. 30, TrV 176: 1. Einleitung (Sonnenaufgang) - Live",Richard Strauss: Also sprach Zarathustra; Tod und Verklärung; Till Eulenspiegel; Salome's Dance (Live),Richard Strauss,2019-09-06,110240,17,0.248,0.61,0.245,0.976,0.15,-12.008,0.0326,86.401,4
+6tEO7bieJDK8CAI0zplfu0,"Piano Concerto No. 2, Sz. 95: I. Allegro",Prokofiev & Bartók: Piano Concertos,Lang Lang,2013-10-04,610933,18,0.401,0.987,0.294,0.859,0.0912,-18.69,0.0366,98.402,4
+0wnXJy6kkLgLpcbFGnAXBI,"Peter and the Wolf, Op. 67 (Remastered): The Story Begins",David Bowie narrates Prokofiev's Peter and the Wolf & The Young Person's Guide to the Orchestra,David Bowie,1978-05-02,51053,34,0.356,0.785,0.222,0.848,0.387,-15.184,0.0341,100.292,3
+74WjYdm3Lvbwnds4thYPUU,"Turandot: ""Nessun dorma!""",Puccini: Turandot - Highlights,Giacomo Puccini,1973-01-01,177333,59,0.212,0.963,0.301,0.0033,0.13,-12.505,0.0384,84.025,4
+1Oo7XEqkrwifJn17aA0ocF,"Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major",Volodos Plays Brahms,Johannes Brahms,2017-04-07,378733,60,0.299,0.994,0.00626,0.901,0.0823,-30.923,0.0478,69.043,4
+0aStTOTxkS2vFyqJOfPf3d,"Die Walküre, WWV 86B / Act 3: ""Hojotoho! Heiaha!""",Wagner: Die Walküre,Richard Wagner,2013-01-01,504998,31,0.287,0.963,0.388,0.0143,0.691,-11.312,0.0407,89.558,3
+5fdp9rXfEixCGLM1Og4EN1,Gnossienne No. 1,Gnossienne No. 1,Erik Satie,2013,296480,61,0.376,0.996,0.00579,0.944,0.0882,-31.615,0.0576,71.827,4
+6VcFtjBwaR8Lc6aUcgrFbD,Daphnis et Chloé: Pt. III: Lever du jour,Ravel: Daphnis and Chloe,Maurice Ravel,2006-11-21,329906,0,0.0704,0.925,0.179,0.911,0.112,-17.395,0.0409,77.027,3
+1N06xKid6sYj3vRPbVQX1m,Glassworks: I. Opening,Philip Glass: Glassworks - Live at (le) Poisson Rouge,Signal,2011-02,390853,42,0.24,0.951,0.0428,0.865,0.0979,-26.479,0.0371,137.785,3
+64ZxBE1ZgK4C0lGljXzDcG,"The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 ""Winter"": I. Allegro non molto",Vivaldi: The Four Seasons,Antonio Vivaldi,2008,204146,55,0.48,0.81,0.163,0.754,0.093,-19.117,0.0645,158.366,4
+2u9VGZmVz7Rm01SfDgzcfA,"Liebestraum No. 3 in A-Flat Major, S. 541 / 3",Liszt - My Piano Hero,Franz Liszt,2011-08-22,293146,58,0.279,0.987,0.0292,0.902,0.104,-26.804,0.0406,136.732,3
+26KykHLogeIep4OrurliDS,"Suite bergamasque, L. 75: III. Clair de lune","Debussy: Suite bergamasque, L. 75: III. Clair de lune",Claude Debussy,2021-12-31,263826,49,0.349,0.994,0.0168,0.932,0.0768,-26.609,0.0401,71.696,4
+3eLlW0GegkXy3o92t51xaJ,"Schubert: Ave Maria, Op. 52 No. 6, D. 839","Schubert: Ave Maria, Die Forelle, Heidenröslein & Other Lieder",Franz Schubert,1994-01-01,379053,45,0.206,0.99,0.058,0.000573,0.09,-20.467,0.0441,176.377,3
+0Gh45IbIKOG9IucFfrZqLT,"Cello Concerto No. 1 in C Major, Hob.VIIb:1: III. Allegro molto",Haydn: Cello Concertos in C & D,Franz Joseph Haydn,1998-01-06,424306,40,0.375,0.984,0.121,0.871,0.0984,-23.44,0.0406,147.398,4
+6cUCckpdlqHJ5Ascf2uH2A,"Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",Beethoven: Symphonies Nos.5 & 7,Ludwig van Beethoven,1995-01-01,442000,60,0.248,0.957,0.298,0.9,0.0943,-15.661,0.0395,97.853,4
+51xHvAUYQfhY29GcGlBM0n,"Piano Sonata No. 16 in C Major, K. 545 ""Sonata facile"": I. Allegro",Piano Book (Deluxe Edition),Lang Lang,2019-03-29,294466,56,0.315,0.982,0.211,0.924,0.147,-22.835,0.0384,120.39,4
+1bTXAKwE2Hztv13xTAhMQB,Solomon HWV 67 / Act 3: The Arrival Of The Queen Of Sheba,The Essential Handel,George Frideric Handel,1995-01-01,191493,44,0.625,0.878,0.351,0.938,0.0569,-15.884,0.0423,116.961,4
+0BWJNm4TrO6H3qgiCmDBjM,Toccata and Fugue in D minor,Great Organ Classics,William McVicker,1997,567466,50,0.0692,0.87,0.0463,0.308,0.0937,-25.35,0.0373,71.749,4
+30CNRidKfNGwImhmvHpUS0,"Rigoletto / Act 3: ""La donna è mobile""",Pavarotti (Music from the Motion Picture),Luciano Pavarotti,2019-06-07,143573,0,0.36,0.961,0.196,6.05e-06,0.0911,-13.706,0.037,118.233,5
+74WjYdm3Lvbwnds4thYPUU,"Turandot: ""Nessun dorma!""",Puccini: Turandot - Highlights,Giacomo Puccini,1973-01-01,177333,59,0.212,0.963,0.301,0.0033,0.13,-12.505,0.0384,84.025,4
+5W7IiH2jDV6q6EQwBkq8ld,Largo al factotum,Tales Of Opera,Simon Keenlyside,2006-09-01,295973,34,0.379,0.986,0.251,0.0122,0.094,-15.488,0.0991,73.316,4
+1JQDpCPsW7moozoU0l1DOU,Gianni Schicchi: O mio babbino caro (Arr. Yvar Mikhashoff),Bach: Prelude No. 1 in C Major / Puccini: O Mio Babbino Caro,James Rhodes,2016-12-01,158994,25,0.382,0.994,0.0339,0.859,0.0745,-26.854,0.039,64.907,3
+66uATstJZp2xLiCYzFMMZW,The Lily - Orchestral Version,The Lily,Gabríel Ólafs,2022-05-20,184127,27,0.14,0.78,0.0968,0.914,0.232,-24.919,0.0406,94.495,4
+4HE2Ex0bjbj3YNXmV01OoM,"Toccata and Fugue in D Minor, BWV 565: I. Toccata","Bach, J.S.: Toccata and Fugue BWV 565; Organ Works BWV 572, 590, 532, 769 & 552",Johann Sebastian Bach,1989-01-01,150800,38,0.303,0.705,0.158,0.259,0.239,-15.529,0.0417,83.546,4
+1OdgWYrTg6hKwydZGGS1EH,Now We Are Free,The Best of Lisa Gerrard,Lisa Gerrard,2007-02-12,254840,0,0.304,0.601,0.27,0.088,0.0965,-16.355,0.0334,138.21,4
+0Na9GMQBVdlo60fgtT9qoO,Páramo,eXchange: Latin America,Various Artists,2007-01-01,422293,1,0.522,0.957,0.164,0.713,0.0929,-20.922,0.0574,132.824,4
+18z7tK7u9DcDw85LYRR5Fe,Cornfield Chase,Interstellar (Original Motion Picture Soundtrack),Hans Zimmer,2014-11-18,126959,0,0.33,0.948,0.229,0.973,0.0998,-16.442,0.0375,96.158,4
+4fBqGaGJfEqTQDX4d7Hcil,"Handel: Serse, HWV 40, Act 1 Scene 1: No. 2, Arioso, ""Ombra mai fù"" (Serse)",Handel: Serse,George Frideric Handel,2004-09-15,203760,34,0.13,0.928,0.119,0.0235,0.162,-20.19,0.0453,89.042,1
+086sjLPEqdKBgTxbTeCLCv,Rêverie,"Debussy: Estampes, Pour le piano, Piano Works",Claude Debussy,2007-07-31,233400,59,0.251,0.995,0.00904,0.922,0.0779,-31.599,0.0406,62.225,4
+6WVRhBxRMW9fn6sRkt2gWn,Mountains,Interstellar (Original Motion Picture Soundtrack),Hans Zimmer,2014-11-18,219092,0,0.251,0.605,0.0575,0.922,0.098,-16.985,0.0293,95.947,4
+7rrDSYbroZhV6aKkbYxiuG,"Kinderszenen, Op. 15: 7. Träumerei",Schumann: Kreisleriana; Kinderszenen; Fantasiestücke,Robert Schumann,1992-01-01,150600,49,0.404,0.996,0.0151,0.916,0.0946,-35.799,0.0652,134.935,5
+5jYq5kj7kt6Iokzv7XeZhZ,I Remember Everything,I Remember Everything,John Prine,2020-06-11,163413,51,0.557,0.808,0.189,3.25e-06,0.246,-10.394,0.0464,124.079,4
+47ugCLTk9gxAjV0gMcuVjv,Nicholas Sparks Introduction,JD Eicher/Nicholas Sparks,Various Artists,2016-10-11,9750,0,0.0,0.25,0.777,0.0,0.416,-7.597,0.0,0.0,0
+5QOKsL8sdbosNPxDFJNPQz,Last Call,Last Call,Jamie Miller,2022-03-25,151307,65,0.636,0.299,0.528,0.0,0.326,-3.857,0.0346,107.244,4
+6r2BECwMgEoRb5yLfp0Hca,Born This Way,Born This Way (Special Edition),Lady Gaga,2011-01-01,260253,67,0.587,0.00327,0.828,0.0,0.331,-5.108,0.161,123.907,4
+7v6rH68U9wPAzRzYNmgtCx,Time I Love to Waste,Time I Love to Waste,MAY-A,2021-02-18,197487,39,0.65,0.0202,0.628,2.19e-06,0.289,-5.094,0.0321,119.999,4
+6OG1S805gIrH5nAQbEOPY3,You'll Be Back,Hamilton (Original Broadway Cast Recording),Lin-Manuel Miranda,2015-09-25,208321,67,0.607,0.39,0.466,0.0,0.135,-7.562,0.0578,121.741,4
+7LczcBaamU9pTkV4Cl9NyX,Blick Blick (with Nicki Minaj),Blick Blick,Coi Leray,2022-03-18,178413,72,0.916,0.222,0.824,0.00108,0.0661,-4.444,0.422,139.926,4
+3Hi69uRksd7Z2YQ9dEGDJP,Champion (Ru X Blu),Champion (Ru X Blu),RuPaul,2022-03-09,178278,39,0.698,0.0325,0.886,5.14e-06,0.585,-4.116,0.035,122.015,4
+18k8IlS52uxRWObykDUZFG,The Joke,"By The Way, I Forgive You",Brandi Carlile,2018-02-16,279373,58,0.236,0.327,0.578,0.00015,0.206,-5.477,0.0404,75.367,4
+0M6kxde1FdGI95X0XPuru6,Born Yesterday,Born Yesterday,Arca,2021-10-04,198529,42,0.402,0.0516,0.646,0.0,0.12,-8.087,0.0498,144.93,4
+28NBmftocOzTPEb6OYA9fW,Le Freak,C'est Chic,CHIC,1978-08-11,327573,0,0.867,0.0453,0.746,0.0,0.123,-7.445,0.0475,118.616,4
+4fuwadVr6WOQoSydfA3fkR,Tegan and Sara Spotify Pride Intro,Tegan and Sara - Spotify Pride,Various Artists,2017-05-31,14821,0,0.0,0.26,0.528,0.0,0.0824,-11.351,0.0,0.0,0
+6rDKnKF7B4knjugixe44M0,Adam Lambert Spotify Pride Intro,Adam Lambert - Spotify Pride,Various Artists,2017-05-31,14750,0,0.0,0.559,0.625,0.0,0.251,-13.931,0.0,0.0,0
+51NpP0s1nQLhoqWg49uh35,Kathy Griffin: Intro - #PressPlayForPride,#PressPlayForPride,Various Artists,2016-06-07,14862,0,0.0,0.222,0.475,0.0,0.0645,-12.591,0.0,0.0,0
+4ENuIjI1dQOQGYkgIwQgSX,Little Mix Spotify Pride Intro,Little Mix - Spotify Pride,Various Artists,2017-05-31,14500,0,0.0,0.681,0.754,0.0,0.299,-5.05,0.0,0.0,0
+5PEcgEP0ldpnP4M3q5YP3T,MNEK: Hey - #PressPlayForPride,#PressPlayForPride,Various Artists,2016-06-07,14787,0,0.0,0.533,0.518,0.0,0.535,-7.904,0.0,0.0,0
+6MCm5U1tyfkaQvcGkbw3ov,Olly Alexander from Years & Years on Pride,Years & Years - Spotify Pride,Various Artists,2017-06-02,76000,0,0.722,0.513,0.535,0.0,0.277,-9.352,0.502,103.467,4
+77Yx1YG6SVTbsejw1jyAAC,Shura - Intro - #PressPlayForPride,#PressPlayForPride,Various Artists,2016-06-09,14862,0,0.0,0.417,0.41,0.0,0.0599,-13.899,0.0,0.0,0
+5jBBOzlULSLS3J1WL646tB,Conchita Wurst Spotify Pride Intro,Conchita Wurst - Spotify Pride,Various Artists,2017-06-01,10127,0,0.0,0.356,0.778,0.0,0.275,-4.016,0.0,0.0,0
+3m7V717IKZqZLW5qUIOxdD,Hey Jude - Remastered 2009,The Beatles 1967 - 1970 (Remastered),The Beatles,1973-04-02,431333,62,0.402,0.028,0.552,1.36e-05,0.0929,-10.158,0.0258,145.164,4
+2Ekx8lzXbAh5KNyOvmmjH5,Please Please Me - Mono / Remastered,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,121333,0,0.542,0.628,0.699,0.0,0.053,-5.829,0.0318,138.383,4
+2u8yti7fZtXMbwqex7M0DZ,All You Need Is Love - Remastered,Yellow Submarine (Remastered),The Beatles,1969-01-17,231213,0,0.4,0.345,0.463,4.59e-05,0.286,-8.455,0.0288,103.103,4
+0MKqeOVdZcUFGJvWpGCKbG,Come Together - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,259946,0,0.533,0.0302,0.376,0.248,0.0926,-11.913,0.0393,165.007,4
